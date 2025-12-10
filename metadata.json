@@ -1,0 +1,7 @@
+{
+  "name": "Fermat Spiral Christmas Tree",
+  "description": "A 3D interactive particle tree using React Three Fiber. Features a Fermat spiral layout, hierarchical layering, and an explosive transition effect.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
